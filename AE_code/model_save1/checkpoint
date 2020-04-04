@@ -1,0 +1,2 @@
+model_checkpoint_path: "modle_Variantional_Autoencoder.ckpt"
+all_model_checkpoint_paths: "modle_Variantional_Autoencoder.ckpt"
