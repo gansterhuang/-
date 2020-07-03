@@ -1,0 +1,2 @@
+model_checkpoint_path: "GRU_curve_fit_modle_1.ckpt"
+all_model_checkpoint_paths: "GRU_curve_fit_modle_1.ckpt"
